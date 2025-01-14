@@ -36,7 +36,7 @@ pip install ecdsa requests
 2. Open a terminal and navigate to the script’s directory.
 3. Run the script using Python:
    ```bash
-   python hex64_lottery.py
+   python hex.py
    ```
 4. Enter the desired output file prefix (e.g., `results`).
 5. The script will scan the predefined ranges of private keys and save the results in multiple CSV files.
